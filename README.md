@@ -1,2 +1,2 @@
 # Tienda
-Tienda virtual de remeras. Pseudo proyecto.
+Pseudo proyecto de tienda virtual de remeras.
